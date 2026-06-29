@@ -1,34 +1,28 @@
-# Cybersecurity Portfolio
+# Magnus Bergman - Cybersecurity Portfolio
 
-This repository contains hands-on cybersecurity labs focused on:
+Aspiring SOC Analyst with hands-on experience in SIEM investigations, endpoint telemetry analysis and network traffic analysis.
 
-- Splunk
-- Sysmon
-- Windows Event Logs
-- PowerShell Investigations
-- Network Analysis (Wireshark)
+## Featured Projects
 
-## Labs
+### Splunk Sysmon PowerShell Investigation Lab
 
-### Splunk Sysmon PowerShell Investigation
-Investigated suspicious PowerShell activity involving:
-- ExecutionPolicy Bypass
-- Hidden PowerShell execution
-- Reconnaissance commands
-- Web requests
-- DNS activity
+Investigated suspicious PowerShell activity using Splunk Enterprise and Sysmon telemetry.
 
-### Sysmon Endpoint Telemetry Lab
-Windows endpoint telemetry analysis using Sysmon.
+**Skills demonstrated:**
 
-### Wireshark Labs
-Packet capture and network investigation exercises.
-
-## Skills Demonstrated
-
-- Log analysis
-- Process investigation
-- Threat hunting
-- Endpoint telemetry analysis
-- Windows internals
 - Splunk SPL
+- Sysmon analysis
+- Process investigation
+- DNS analysis
+- Network connection analysis
+- Incident documentation
+
+[View Project](./splunk-sysmon-powershell-investigation)
+
+---
+
+### Wireshark Network Analysis
+
+Analysed DNS, HTTP and TCP traffic to identify normal and suspicious network behaviour.
+
+[View Project](./Wireshark)
